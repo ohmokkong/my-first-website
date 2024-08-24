@@ -10,3 +10,6 @@
 - LG gram노트북에서 github의 Personal access tokens (classic)을 등록하고 최초 git push를 시도하려고 합니다.
 - my-first-website —
 Expires on Tue, Sep 24 2024.
+- app 디렉토리 추가
+- app/app.py 추가
+- app/Dockerfile 추가
